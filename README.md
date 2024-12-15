@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhabrata Mohapatra</h1>
-<h3 align="center">An Electronics Engineer with passion for Generative AI</h3>
+<h3 align="center">Build. Solve. Innovate. Repeat. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddha-forever&label=Profile%20views&color=0e75b6&style=flat" alt="siddha-forever" /> </p>
 

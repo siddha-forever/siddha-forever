@@ -20,6 +20,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddha-forever&layout=compact)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/siddha_forever?border=0&radius=20)
 
+<p align="left">
+  <a href="https://leetcode.com/u/siddha_forever/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/siddha_forever/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200" width="200" />
+  </a>
+    <a href="https://leetcode.com/u/siddha_forever/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/siddha_forever/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="200" width="200" />
+  </a>
+</p>
+
 ![Alt text](https://github.com/tanmayraj2309/tanmayraj2309/blob/main/contributiongrid.svg)
 
 ![Alt text](https://github.com/Sreyashidey/Files/blob/main/bg.png)

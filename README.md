@@ -8,9 +8,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm a developer who loves turning ideas into working systems — from low-level C/C++ to Python ML pipelines.<br/>
-  I enjoy competitive programming, computer vision experiments, and building tools that solve real problems.<br/>
-  Currently sharpening my DSA skills and exploring deep learning applications.
+Currently working as a part of <b>Infrastructure as a Service (IaaS)</b> team, building and maintaining cloud infrastructure.
 </p>
 
 <h3 align="left">Connect with me:</h3>
